@@ -1,0 +1,31 @@
+.btn-edit {
+    display: inline-block;
+    border: none;
+    border-radius: 50%;
+    padding: 10px;
+    background: transparent;
+    color:goldenrod;
+    cursor: pointer;
+}
+
+.btn-delete {
+    display: inline-block;
+    border: none;
+    border-radius: 50%;
+    padding: 10px;
+    background: transparent;
+    color:red;
+    cursor: pointer;
+}
+
+.btn-add {
+    display: inline-block;
+    border: none;
+    border-radius: 50px;
+    padding: 10px;
+    width: 125px;
+    height: 50px;
+    background: #0ABAB5;
+    color: black;
+    cursor: pointer;
+}
